@@ -107,7 +107,3 @@ Take these screenshots after running the project:
 - Streamlit app showing recommendations
 - FastAPI backend running in the terminal
 - Optional: FastAPI docs page at `http://127.0.0.1:8000/docs`
-
-## GitHub Submission
-
-Push this folder to GitHub and submit the repository link on Blackboard before the deadline.
