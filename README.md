@@ -99,11 +99,3 @@ http://localhost:8501
 4. The model calculates similarity scores between the user input and movie descriptions.
 5. The backend returns the best matches.
 6. Streamlit displays the recommended movies clearly.
-
-## Screenshots Required for Submission
-
-Take these screenshots after running the project:
-
-- Streamlit app showing recommendations
-- FastAPI backend running in the terminal
-- Optional: FastAPI docs page at `http://127.0.0.1:8000/docs`
